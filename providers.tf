@@ -1,0 +1,4 @@
+
+provider "gitea" {
+  insecure = false
+}
